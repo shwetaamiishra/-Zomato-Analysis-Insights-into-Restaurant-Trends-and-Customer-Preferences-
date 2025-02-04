@@ -1,23 +1,24 @@
-🍴 Zomato Analysis: Insights into Restaurant Trends and Customer Preferences 🍴
+🍴 **Zomato Analysis: Insights into Restaurant Trends and Customer Preferences** 🍴
 
 These dashboards provide a comprehensive look at Zomato's restaurant and customer metrics, uncovering trends across cuisines, ratings, and delivery preferences. Analyze data to better understand city-wise dynamics, customer choices, and restaurant performance.
 
-➡ Key Questions Answered:
+➡ **Key Questions Answered:**
 🍽️ What are the most popular cuisines by votes and ratings?
 🍽️ Which cities have the highest number of restaurants?
 🍽️ How many restaurants offer table bookings and online delivery?
 🍽️ What are the top and bottom-rated restaurants?
 
-📊 Dashboard Highlights:
-🌟 Total Votes, Maximum Ratings & Costs: Summarized at the top for a quick overview.
-🌟 Interactive Map: Visualizes restaurant distribution globally or within cities.
-🌟 Cuisine Word Cloud: Displays popular cuisines like Indian, Fast Food, and Continental.
-🌟 City-Wise Insights: Bar charts showing restaurant counts and price ranges across cities.
-🌟 Key Metrics:
+📊 **Dashboard Highlights:**
+🌟 **Total Votes, Maximum Ratings & Costs:** Summarized at the top for a quick overview.
+🌟 **Interactive Map:** Visualizes restaurant distribution globally or within cities.
+🌟 **Cuisine Word Cloud:** Displays popular cuisines like Indian, Fast Food, and Continental.
+🌟 **City-Wise Insights:** Bar charts showing restaurant counts and price ranges across cities.
 
+🌟 **Key Metrics:**
 Online Delivery & Table Booking Pie Charts: Quick view of services offered.
 Top 10 Restaurants by Price Range & Ratings: Highlighting the extremes in performance.
-💡 Insights at a Glance:
+
+💡 **Insights at a Glance:**
 ➡ Indian cuisine dominates both in votes and ratings.
 ➡ New Delhi leads with the highest number of restaurants.
 ➡ The majority of restaurants do not offer table bookings or online delivery.
